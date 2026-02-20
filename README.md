@@ -44,7 +44,6 @@
 
 
 ## 📝 학습 방법
-
 1. 각 섹션의 이론 학습
 2. 설치 및 IDE(코드 작성 프로그램) 활용
 3. 실습
@@ -56,6 +55,7 @@
 - Cursor를 처음 접하는 초심자
 
 ## 📞 피드백 및 문의
-중앙정보처리학원 온라인 상담 - https://choongang.co.kr/html/sub07_02_n.php
-중앙정보처리학원 전화문의 - 02-313-1711(이대), 02-561-1911(강남)
-**Happy Coding with Cursor! 🎵**
+- 중앙정보처리학원 온라인 상담 - https://choongang.co.kr/html/sub07_02_n.php
+- 중앙정보처리학원 전화문의 - 02-313-1711(이대), 02-561-1911(강남)
+ 
+## **Happy Coding with Cursor! 🎵**
