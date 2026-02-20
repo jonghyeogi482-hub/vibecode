@@ -15,33 +15,26 @@
 ## 📖 강의 구성
 
 ### 1. Cursor 기초
-- Cursor 설치 및 환경 설정
+- Cursor 설치 및 환경 설정 (https://cursor.com/)
 - 기본 인터페이스 이해
 - 단축키 및 설정 커스터마이징
 
 ### 2. AI 기능 활용
-- 코드 생성 및 자동완성
+- Agent를 이용한 코드 생성 및 자동완성
 - Chat 기능 활용법
 - 코드 분석 및 리팩토링
 
-### 3. 고급 기능
-- 프롬프트 최적화
-- 컨텍스트 관리
-- Multi-file 작업
-
-### 4. 실전 프로젝트
-- 웹 애플리케이션 개발
-- API 개발 실습
-- 디버깅 및 최적화
+### 3. 영화진흥위원회 오픈 API 활용하기
+- 가입 및 API key 신청 (https://www.kobis.or.kr/kobisopenapi/homepg/main/main.do)
+- 컨텍스트 연결 확인
+- API를 이용한 웹페이지 제작
 
 ## 🛠️ 필요한 사전 지식
-
 - 기본적인 프로그래밍 경험
 - Python, JavaScript 중 하나 이상의 언어 이해
 - Git 기본 사용법
 
 ## 🚀 시작하기
-
 ```bash
 # 저장소 클론
 git clone https://github.com/jonghyeogi482-hub/vibecode.git
@@ -50,41 +43,23 @@ git clone https://github.com/jonghyeogi482-hub/vibecode.git
 cd vibecode
 ```
 
-## 📁 강의 자료 구조
+## 📁 강의 자료
+ - http://mekeyace.kbsn.or.kr/cursor.pdf 
 
-```
-vibecode/
-├── 01_basics/          # Cursor 기초
-├── 02_ai_features/     # AI 기능 활용
-├── 03_advanced/        # 고급 기능
-├── 04_projects/        # 실전 프로젝트
-└── README.md           # 강의 가이드
-```
-
-## 💬 강의 특징
-
-- **실시간 코딩**: 실제 개발 상황에서 Cursor 활용
-- **실습 중심**: 각 섹션마다 실습 과제 제공
-- **커뮤니티 지원**: 질문 및 피드백 환영
 
 ## 📝 학습 방법
 
 1. 각 섹션의 이론 학습
-2. 제공된 코드 예제 분석
-3. 실습 과제 완료
-4. 프로젝�� 진행
+2. 설치 및 IDE(코드 작성 프로그램) 활용
+3. 실습
 
 ## 🎓 대상 수강생
-
 - AI 코딩 도구에 관심있는 개발자
 - 개발 생산성을 높이고 싶은 분
 - 최신 개발 트렌드를 따라가고 싶은 분
 - Cursor를 처음 접하는 초심자
 
 ## 📞 피드백 및 문의
-
-이슈 또는 토론 탭을 통해 피드백을 주세요!
-
----
-
+중앙정보처리학원 온라인 상담 - https://choongang.co.kr/html/sub07_02_n.php
+중앙정보처리학원 전화문의 - 02-313-1711(이대), 02-561-1911(강남)
 **Happy Coding with Cursor! 🎵**
