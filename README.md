@@ -14,6 +14,11 @@
 
 ## 📖 강의 구성
 
+### 가장 보편적으로 사용하는 IDE AI
+- Visual Studio Code(비주얼 스튜디오 코드)
+- https://code.visualstudio.com/
+- Microsoft Copilot 활용하기
+
 ### 1. Cursor 기초
 - Cursor 설치 및 환경 설정 (https://cursor.com/)
 - 기본 인터페이스 이해
@@ -33,15 +38,6 @@
 - 기본적인 프로그래밍 경험
 - Python, JavaScript 중 하나 이상의 언어 이해
 - Git 기본 사용법
-
-## 🚀 시작하기
-```bash
-# 저장소 클론
-git clone https://github.com/jonghyeogi482-hub/vibecode.git
-
-# 강의 자료 확인
-cd vibecode
-```
 
 ## 📁 강의 자료
  - http://mekeyace.kbsn.or.kr/cursor.pdf 
