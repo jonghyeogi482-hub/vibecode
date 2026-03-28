@@ -36,7 +36,7 @@
 
 ## 🛠️ 필요한 사전 지식
 - 기본적인 프로그래밍 경험
-- Python, JavaScript 중 하나 이상의 언어 이해
+- Python, JavaScript, Spring, Spring-boot 중 하나 이상의 언어 이해
 - Git 기본 사용법
 
 ## 📁 강의 자료
