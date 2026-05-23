@@ -55,12 +55,12 @@
 - Cursor를 처음 접하는 초심자
 
 ## 중앙정보처리학원 추천 AI 수업안내
-- 바이브코딩 하루 완성 수업 : https://choongang.co.kr/html/sub02_01_n.php?mcode=28
-- AI 에이전트(RAG·MCP·MLOps) 서비스 개발자 부트캠프 수업 :  [https://choongang.co.kr/html/sub03_03_n.php](https://choongang.co.kr/html/sub07_01_n_view.php?idx=241)
-- AWS 자바 풀스택(FastAPI,React) 부트캠프 : [https://choongang.co.kr/html/sub07_01_n_view.php?idx=242](https://choongang.co.kr/html/sub07_01_n_view.php?idx=242)
+- 바이브코딩 하루 완성 수업 : https://choongang.co.kr/allclass.do
+- AI 에이전트(RAG·MCP·MLOps) 서비스 개발자 부트캠프 수업 :  https://choongang.co.kr/allclass.do
+- AWS 자바 풀스택(FastAPI,React) 부트캠프 : https://choongang.co.kr/kdigital.do
 
 ## 📞 피드백 및 문의
-- 중앙정보처리학원 온라인 상담 - https://choongang.co.kr/html/sub07_02_n.php
-- 중앙정보처리학원 전화문의 - 02-313-1711(이대), 02-561-1911(강남)
+- 중앙정보처리학원 온라인 상담 - https://choongang.co.kr/online_counsel.do
+- 중앙정보처리학원 전화문의 - 02-313-1711(이대)
  
 ## **Happy Coding with Cursor! 🎵**
